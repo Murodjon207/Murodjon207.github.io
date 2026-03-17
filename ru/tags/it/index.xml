@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT | </title>
+    <link>https://Murodjon207.github.io/ru/tags/it/</link>
+      <atom:link href="https://Murodjon207.github.io/ru/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <description>IT</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Murodjon207.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>IT</title>
+      <link>https://Murodjon207.github.io/ru/tags/it/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://Murodjon207.github.io/ru/publications/02/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://Murodjon207.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это инструменты, которые позволяют форматировать текст с помощью простого и понятного синтаксиса. Они широко используются в программировании, документации и веб-разработке благодаря своей удобочитаемости и скорости написания.&lt;/p&gt;
+&lt;h2 id=&#34;-что-это-такое&#34;&gt;💡 Что это такое?&lt;/h2&gt;
+&lt;p&gt;В отличие от более сложных языков разметки, таких как HTML, легковесные языки ориентированы на простоту. Их синтаксис интуитивно понятен даже без глубоких технических знаний, а текст в исходном виде остаётся легко читаемым.&lt;/p&gt;
+&lt;h2 id=&#34;-популярные-примеры&#34;&gt;🔧 Популярные примеры&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 &lt;strong&gt;Markdown&lt;/strong&gt; — один из самых распространённых языков, используется в GitHub, документации и блогах.&lt;/li&gt;
+&lt;li&gt;🧾 &lt;strong&gt;reStructuredText (reST)&lt;/strong&gt; — часто применяется в Python-документации.&lt;/li&gt;
+&lt;li&gt;📘 &lt;strong&gt;Asciidoc&lt;/strong&gt; — мощный инструмент для создания технической документации.&lt;/li&gt;
+&lt;li&gt;✏️ &lt;strong&gt;BBCode&lt;/strong&gt; — используется на форумах для форматирования сообщений.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-преимущества&#34;&gt;🚀 Преимущества&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Простота изучения и использования&lt;/li&gt;
+&lt;li&gt;👀 Читаемость исходного текста&lt;/li&gt;
+&lt;li&gt;⚡ Быстрая разметка документов&lt;/li&gt;
+&lt;li&gt;🔄 Лёгкая конвертация в HTML, PDF и другие форматы&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-где-применяются&#34;&gt;📚 Где применяются?&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки используются в самых разных областях:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 написание документации&lt;/li&gt;
+&lt;li&gt;💻 ведение README-файлов в проектах&lt;/li&gt;
+&lt;li&gt;📝 создание блогов и заметок&lt;/li&gt;
+&lt;li&gt;📊 подготовка отчётов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-итог&#34;&gt;🔍 Итог&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это удобный инструмент, который помогает быстро и эффективно оформлять текст без лишней сложности. Они идеально подходят как для новичков, так и для опытных разработчиков.&lt;/p&gt;
+&lt;p&gt;А вы используете Markdown или другие языки разметки? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
