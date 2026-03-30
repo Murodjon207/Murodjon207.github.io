@@ -54,35 +54,7 @@
       href="https://Murodjon207.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://Murodjon207.github.io/ru/tags/computer-science/</loc><lastmod>2026-03-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://Murodjon207.github.io/ru/tags/it/</loc><lastmod>2026-03-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://Murodjon207.github.io/ru/tags/markup-languages/</loc><lastmod>2026-03-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://Murodjon207.github.io/ru/publications/</loc><lastmod>2026-03-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Murodjon207.github.io/publications/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://Murodjon207.github.io/ru/publications/"
-    /></url>
-  <url>
-    <loc>https://Murodjon207.github.io/ru/tags/</loc><lastmod>2026-03-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Murodjon207.github.io/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://Murodjon207.github.io/ru/tags/"
-    /></url>
-  <url>
-    <loc>https://Murodjon207.github.io/ru/publications/02/</loc><lastmod>2026-03-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://Murodjon207.github.io/ru/tags/academic/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://Murodjon207.github.io/ru/tags/academic/</loc><lastmod>2026-03-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://Murodjon207.github.io/tags/academic/"
@@ -92,7 +64,33 @@
       href="https://Murodjon207.github.io/ru/tags/academic/"
     /></url>
   <url>
-    <loc>https://Murodjon207.github.io/ru/blog/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://Murodjon207.github.io/ru/tags/presentation/</loc><lastmod>2026-03-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Murodjon207.github.io/ru/publications/</loc><lastmod>2026-03-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://Murodjon207.github.io/publications/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://Murodjon207.github.io/ru/publications/"
+    /></url>
+  <url>
+    <loc>https://Murodjon207.github.io/ru/tags/skills/</loc><lastmod>2026-03-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Murodjon207.github.io/ru/tags/</loc><lastmod>2026-03-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://Murodjon207.github.io/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://Murodjon207.github.io/ru/tags/"
+    /></url>
+  <url>
+    <loc>https://Murodjon207.github.io/ru/publications/03/</loc><lastmod>2026-03-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Murodjon207.github.io/ru/blog/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://Murodjon207.github.io/blog/"
@@ -102,7 +100,17 @@
       href="https://Murodjon207.github.io/ru/blog/"
     /></url>
   <url>
-    <loc>https://Murodjon207.github.io/ru/tags/student-life/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://Murodjon207.github.io/ru/tags/computer-science/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Murodjon207.github.io/ru/tags/student-life/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Murodjon207.github.io/ru/blog/03/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Murodjon207.github.io/ru/tags/it/</loc><lastmod>2026-03-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Murodjon207.github.io/ru/tags/markup-languages/</loc><lastmod>2026-03-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://Murodjon207.github.io/ru/publications/02/</loc><lastmod>2026-03-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://Murodjon207.github.io/ru/blog/02/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

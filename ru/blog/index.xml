@@ -5,12 +5,32 @@
     <link>https://Murodjon207.github.io/ru/blog/</link>
       <atom:link href="https://Murodjon207.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Murodjon207.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://Murodjon207.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://Murodjon207.github.io/ru/blog/03/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://Murodjon207.github.io/ru/blog/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя оказалась динамичной и насыщенной новыми задачами. Учёба требовала концентрации, но при этом приносила ощутимое чувство прогресса и понимания материала.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; продолжила практиковаться в решении задач, уделяя внимание структуре кода и его читаемости.&lt;/li&gt;
+&lt;li&gt;🧠 Углубилась в изучение &lt;strong&gt;алгоритмов и структур данных&lt;/strong&gt;, особенно в вопросах оптимизации и анализа сложности.&lt;/li&gt;
+&lt;li&gt;📚 На лекциях по &lt;strong&gt;компьютерным наукам&lt;/strong&gt; познакомилась с новыми подходами и актуальными направлениями развития технологий.&lt;/li&gt;
+&lt;li&gt;🔍 Работала над практическими проектами, стараясь применять теоретические знания на практике.&lt;/li&gt;
+&lt;li&gt;🤝 Обсуждение заданий с одногруппниками помогло лучше понять сложные темы и найти альтернативные решения.&lt;/li&gt;
+&lt;li&gt;🌿 Не забывала про отдых, чтобы сохранять продуктивность и избегать перегрузки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя получилась продуктивной и дала хороший толчок для дальнейшего обучения и развития навыков.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>
