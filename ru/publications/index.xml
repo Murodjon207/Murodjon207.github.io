@@ -5,12 +5,43 @@
     <link>https://Murodjon207.github.io/ru/publications/</link>
       <atom:link href="https://Murodjon207.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Murodjon207.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://Murodjon207.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://Murodjon207.github.io/ru/publications/04/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://Murodjon207.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в современных исследованиях — от анализа данных до моделирования сложных систем. Выбор языка напрямую влияет на скорость разработки, точность вычислений и удобство работы с результатами.&lt;/p&gt;
+&lt;h3 id=&#34;-популярные-языки&#34;&gt;💻 Популярные языки&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых востребованных языков благодаря простоте синтаксиса и мощным библиотекам (NumPy, SciPy, Pandas). Широко используется в анализе данных, машинном обучении и визуализации.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;R&lt;/strong&gt; — специализированный язык для статистики и обработки данных. Часто применяется в научных исследованиях и аналитике.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;MATLAB&lt;/strong&gt; — инструмент для численных вычислений, моделирования и работы с матрицами. Популярен в инженерных и технических областях.&lt;/li&gt;
+&lt;li&gt;🔢 &lt;strong&gt;Julia&lt;/strong&gt; — современный язык, ориентированный на высокопроизводительные вычисления. Сочетает скорость и удобство.&lt;/li&gt;
+&lt;li&gt;💾 &lt;strong&gt;Fortran&lt;/strong&gt; — один из старейших языков, до сих пор используется в высокопроизводительных научных вычислениях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-почему-это-важно&#34;&gt;🧠 Почему это важно&lt;/h3&gt;
+&lt;p&gt;Научные языки программирования позволяют:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;обрабатывать большие объёмы данных&lt;/li&gt;
+&lt;li&gt;строить математические модели&lt;/li&gt;
+&lt;li&gt;проводить численные эксперименты&lt;/li&gt;
+&lt;li&gt;визуализировать результаты&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Они становятся незаменимыми инструментами в физике, биоинформатике, экономике и многих других областях.&lt;/p&gt;
+&lt;h3 id=&#34;-личный-опыт&#34;&gt;🚀 Личный опыт&lt;/h3&gt;
+&lt;p&gt;На этой неделе я продолжила знакомство с инструментами научного программирования, пробуя реализовывать простые модели и анализировать данные. Особенно интересным оказалось сравнение разных языков и подходов к решению одной и той же задачи.&lt;/p&gt;
+&lt;p&gt;Постепенно приходит понимание, что выбор языка — это не только вопрос удобства, но и эффективности работы.&lt;/p&gt;
+&lt;p&gt;А какими языками пользуетесь вы? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Создание презентаций</title>
